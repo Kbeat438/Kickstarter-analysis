@@ -1,0 +1,48 @@
+Kickstarter Theater Analysis
+
+Overview of Project -
+
+Louise is trying to use kickstarter to raise funds for her play fever and needs to know what the best way of setting up her kickstarter goal is for her goal to succeed. After this Louise was interested in how other plays faired based on their launch date and goals to compare to her own situation.
+
+Purpose -
+
+The Purpose of this project is to compile information on the success of failure of plays and give Louise an idea of how her play will fair, when and what kind of goal she will launch with, and how other plays did on kickstarter to compare. 
+
+Analysis and Challenges
+
+Analysis of Outcomes Based on Launch Date- 
+
+To do this analysis i used the amount of successful, failed, and canceled kickstarters and used the new year column to display this for year. The data is displayed in a this line graph /Users/kyle/Desktop/Resources/Theater_Outcomes_vs_Launch.png and shows the relationship between the month and the success or fail rate.
+
+
+
+Analysis of Outcomes Based on Goals- 
+
+This analysis was made by counting the number of plays that were successful, failed, or canceled in the kickstarter sheet. This number was then divided by the total to get the percent of each and shown based off the goal that was used. The line graph /Users/kyle/Desktop/Resources/Outcomes_vs_Goals.png shows this data so that it can easily been seen which goal amounts had the highest success and failure rate.
+
+
+
+Challenges and Difficulties Encountered
+
+A couple challenges I encountered during this project were being able to get the theater outcomes bu launch date pivot table to be shown based off months instead of years. I was able to mess around with the pivot table enough to get it to work. Another challenge i had was getting the outcomes based on goals line graph to display the x axis correctly. It kept wanting to do it alphabetically which put less than 1000 at the end but i was able to google the issue and find a way to just move the items up and down. 
+
+
+Results
+
+What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+Based on the launch date, the best time to launch a theater based kickstarter is in the beginning of summer. According to the attached line graph, /Users/kyle/Desktop/Resources/Theater_Outcomes_vs_Launch.png, May has the most successful campaigns with 111 and June is close behind with 100. The Worst time to launch a theater based kickstart is in the early winter months. December has almost the exact same amount of successful and failed kickstarters and October and November are not far off with October having the most fails at 50. 
+
+
+What can you conclude about the Outcomes based on Goals?
+
+Based on the percentage of kickstarter goals that are successful, the best action to take is to have a low goal. According to the Outcomes based on goals line graph, /Users/kyle/Desktop/Resources/Outcomes_vs_Goals.png, With near 76% success rate, less than $1000 has the best chance of success. 1000-4999 is close behind with 72%. The most percentage of failed kickstarters starts at 25000-29999 with 20% and then the larger numbers of 45000-49999 and above 50000 are at 0% and 12.5% respectively. 
+
+What are some limitations of this dataset?
+
+This data set doesn't take into consideration what the play content is and how interested potential kickstarters may be. Depending upon what the play fever is about could have a varying affect on potential interest. 
+
+What are some other possible tables and/or graphs that we could create?
+
+We could create a table to display how long it took for each play to complete it's goal and compare that to the goal to see how long Louise would have to wait for her goal to be completed. 
+
